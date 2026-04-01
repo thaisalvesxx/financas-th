@@ -1,2 +1,0 @@
-# financas-th
-controle finanças
